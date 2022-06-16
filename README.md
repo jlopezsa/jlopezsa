@@ -1,4 +1,4 @@
-![khriztianmoreno - Javascript Developer](https://res.cloudinary.com/parkingapp/image/upload/v1655407525/HomePagePic/abstract-gb35d7b8af_1920_blpbtr.jpg)_Imagen de Garik Barseghyan en Pixabay _
+![khriztianmoreno - Javascript Developer](https://res.cloudinary.com/parkingapp/image/upload/v1655407525/HomePagePic/abstract-gb35d7b8af_1920_blpbtr.jpg) _Imagen de Garik Barseghyan en Pixabay_
 
 Hi there 👋, I am a Telecommunications engineer and Full-Stack developer using the MERN Stack and, also, familiarized with software development using agile methodologies such as SCRUM.
 Daily I use: React, Javascript, CSS, Styled-components, Nodejs.
