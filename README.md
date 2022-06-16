@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋, I am Julián López, daily I use: React, Javascript, CSS, Styled-components, Nodejs. 
+I am a Telecommunications engineer and Full-Stack developer using the MERN Stack and, also, familiarized with software development using agile methodologies such as SCRUM. 
+I have more than 13 years of experience in telecommunication system research and, among them, 3 years as professor in systems and telecommunications engineering, in Brasilian and Colombian universities.
 
 <!--
 **jlopezsa/jlopezsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
