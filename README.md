@@ -1,5 +1,7 @@
-Hi there 👋, I am Julián López, daily I use: React, Javascript, CSS, Styled-components, Nodejs. 
-I am a Telecommunications engineer and Full-Stack developer using the MERN Stack and, also, familiarized with software development using agile methodologies such as SCRUM. 
+![khriztianmoreno - Javascript Developer](https://res.cloudinary.com/parkingapp/image/upload/v1655396992/HomePagePic/binary-gd50b67fa4_1920_l04io5.jpg)_Imagen de Gerd Altmann en Pixabay_
+
+Hi there 👋, I am a Telecommunications engineer and Full-Stack developer using the MERN Stack and, also, familiarized with software development using agile methodologies such as SCRUM.
+Daily I use: React, Javascript, CSS, Styled-components, Nodejs.
 I have more than 13 years of experience in telecommunication system research and, among them, 3 years as professor in systems and telecommunications engineering, in Brasilian and Colombian universities.
 
 <!--
