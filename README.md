@@ -4,6 +4,9 @@ Hi there 👋, I am a Telecommunications engineer and Full-Stack developer using
 Daily I use: React, Javascript, CSS, Styled-components, Nodejs.
 I have more than 13 years of experience in telecommunication system research and, among them, 3 years as professor in systems and telecommunications engineering, in Brasilian and Colombian universities.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlopezsa&layout=compact)](https://github.com/jlopezsa/github-readme-stats)
+
+
 <!--
 **jlopezsa/jlopezsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
